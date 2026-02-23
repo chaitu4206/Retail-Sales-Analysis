@@ -1,0 +1,13 @@
+## 📌 Business Insights
+
+1. Sales show seasonal variation, indicating higher demand in certain months (notably May, October, and December).
+
+2. The top-performing product category is Electronics.
+
+3. The age group contributing most revenue is 45-60 years.
+
+4. Gender-wise analysis shows that female customers spend more.
+
+5. A small number of customers contribute to a large portion of revenue (high-value customers).
+
+6. Some categories have low sales and can be improved with marketing strategies.
